@@ -1,0 +1,21 @@
+{
+    "name": "vscode-dark-theme-master",
+    "displayName": "vscode-dark-theme-master",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vscode-dark-theme-master",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vscode-dark-theme-master.json"
+            }
+        ]
+    }
+}
