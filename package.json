@@ -1,8 +1,8 @@
 {
   "name": "colorful-theme",
-  "displayName": "colorful-theme",
-  "description": "",
-  "version": "1.0",
+  "displayName": "Colorful Theme",
+  "description": "Theme without nothing special, just another theme :)",
+  "version": "1.0.0",
   "author": "Leonel Espinoza Sotelo",
   "publisher": "leonex16",
   "license": "MIT",
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "colorful-theme",
+        "label": "Colorful Theme",
         "uiTheme": "vs-dark",
-        "path": "themes/colorful-theme.json"
+        "path": ".themes/colorful-theme.json"
       }
     ]
   }
