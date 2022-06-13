@@ -1,9 +1,7 @@
-# Change Log
+# Changelog
 
-All notable changes to the "colorful-theme" extension will be documented in this file.
+## [1.0.0] - 2022-06-13
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
-
-- Initial release
+- First version

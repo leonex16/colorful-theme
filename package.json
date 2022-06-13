@@ -29,7 +29,7 @@
       {
         "label": "Colorful Theme",
         "uiTheme": "vs-dark",
-        "path": ".themes/colorful-theme.json"
+        "path": "./themes/colorful-dark-theme.json"
       }
     ]
   }
