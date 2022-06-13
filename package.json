@@ -1,21 +1,36 @@
 {
-    "name": "vscode-dark-theme-master",
-    "displayName": "vscode-dark-theme-master",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "vscode-dark-theme-master",
-                "uiTheme": "vs-dark",
-                "path": "./themes/vscode-dark-theme-master.json"
-            }
-        ]
-    }
+  "name": "colorful-theme",
+  "displayName": "colorful-theme",
+  "description": "",
+  "version": "1.0",
+  "author": "Leonel Espinoza Sotelo",
+  "publisher": "leonex16",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonex16/colorful-theme.git"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "dark-theme",
+    "brogrammer-theme"
+  ],
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "colorful-theme",
+        "uiTheme": "vs-dark",
+        "path": "themes/colorful-theme.json"
+      }
+    ]
+  }
 }
