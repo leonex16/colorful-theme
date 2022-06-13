@@ -1,23 +1,23 @@
 /* Global Variables */
 :root {
-  --blue: #148AFF
-  --brown: #AF936E
-  --cyan: #70D7FF
-  --gray: #949499
-  --gray2: #68686A
-  --gray3: #4E4E50
-  --gray4: #3E3E41
-  --gray5: #323234
-  --gray6: #202022
-  --green: #36D35D
-  --indigo: #6765E7
-  --mint: #70D7D1
-  --orange: #FFA114
-  --pink: #FF4268
-  --purple: #C363F2
-  --red: #FF4C42
-  --teal: #47CAE1
-  --yellow: #FFD814
+  --blue: #148AFF;
+  --brown: #AF936E;
+  --cyan: #70D7FF;
+  --gray: #949499;
+  --gray2: #68686A;
+  --gray3: #4E4E50;
+  --gray4: #3E3E41;
+  --gray5: #323234;
+  --gray6: #202022;
+  --green: #36D35D;
+  --indigo: #6765E7;
+  --mint: #70D7D1;
+  --orange: #FFA114;
+  --pink: #FF4268;
+  --purple: #C363F2;
+  --red: #FF4C42;
+  --teal: #47CAE1;
+  --yellow: #FFD814;
 }
 
 body {
