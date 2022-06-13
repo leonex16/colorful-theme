@@ -1,5 +1,5 @@
 {
-  "name": "colorful-theme",
+  "name": "colorful-dark-theme",
   "type": "dark",
   "colors": {
     "activityBar.activeBackground": "#323234",
@@ -103,7 +103,7 @@
     "charts.green": "#34CB5A",
     "charts.lines": "#cccccc80",
     "charts.orange": "#FFA114",
-    "charts.purple": "#BE5EED",
+    "charts.purple": "#C363F2",
     "charts.red": "#FF4C42",
     "charts.yellow": "#FFD814",
     "checkbox.background": "#202022",
@@ -223,7 +223,7 @@
     "focusBorder": "#323234",
     "foreground": "#FAFAFA",
     "gitDecoration.addedResourceForeground": "#34CB5A66",
-    "gitDecoration.conflictingResourceForeground": "#BE5EEDcc",
+    "gitDecoration.conflictingResourceForeground": "#C363F2cc",
     "gitDecoration.deletedResourceForeground": "#FF4C4266",
     "gitDecoration.ignoredResourceForeground": "#94949966",
     "gitDecoration.modifiedResourceForeground": "#FFD81466",
@@ -403,7 +403,7 @@
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#148AFF",
     "terminal.ansiCyan": "#47CAE1",
-    "terminal.ansiMagenta": "#BE5EED",
+    "terminal.ansiMagenta": "#C363F2",
     "terminal.ansiGreen": "#34CB5A",
     "terminal.ansiRed": "#FF4C42",
     "terminal.ansiWhite": "#FFFFFF",
@@ -412,7 +412,7 @@
     "terminal.ansiBrightGreen": "#34CB5A",
 		"terminal.ansiBrightBlack": "#000000",
     "terminal.ansiBrightCyan": "#47CAE1",
-    "terminal.ansiBrightMagenta": "#BE5EED",
+    "terminal.ansiBrightMagenta": "#C363F2",
     "terminal.ansiBrightRed": "#FF4C42",
     "terminal.ansiBrightWhite": "#FFFFFF",
     "terminal.ansiBrightYellow": "#FFD814",
@@ -475,7 +475,7 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#FAFAFA"
+        "foreground": "#C363F2"
       }
     },
     {
@@ -545,7 +545,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#BE5EED"
+        "foreground": "#C363F2"
       }
     },
     {
@@ -812,7 +812,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FF4C42",
+        "foreground": "#34CB5A",
         "fontStyle": "italic"
       }
     },
@@ -841,7 +841,7 @@
       "name": "Changed",
       "scope": ["markup.changed"],
       "settings": {
-        "foreground": "#BE5EED"
+        "foreground": "#C363F2"
       }
     },
     {
@@ -969,7 +969,7 @@
       "name": "Markdown - Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#BE5EED"
+        "foreground": "#C363F2"
       }
     },
     {
@@ -1072,7 +1072,7 @@
       "name": "Markup - Raw Block",
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#BE5EED"
+        "foreground": "#C363F2"
       }
     },
     {
