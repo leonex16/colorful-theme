@@ -842,11 +842,18 @@
 		},
 		{
 			"scope": [
-				"variable.parameter",
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#FAFAFA"
+			}
+		},
+		{
+			"scope": [
 				"comment.block"
 			],
 			"settings": {
-				"foreground": "#A89984"
+				"foreground": "#949499"
 			}
 		},
 		{
