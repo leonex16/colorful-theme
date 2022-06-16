@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1] - 2020-06-16
+
+### Changed
+
+- Variable color from red to white
+- Braket highlighting color
+
 ## [1.1.0] - 2020-06-14
 
 ### Added
