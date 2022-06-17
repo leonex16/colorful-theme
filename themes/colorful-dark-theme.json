@@ -760,7 +760,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#8EC07C"
+				"foreground": "#FAFAFAEE"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 				"punctuation.definition.tag.begin.html"
 			],
 			"settings": {
-				"foreground": "#8EC07C",
+				"foreground": "#FAFAFAEE",
 				"fontStyle": "italic"
 			}
 		},
