@@ -1062,7 +1062,6 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name",
 				"entity.name.tag.structure.any.html",
 				"entity.name.tag"
 			],
@@ -1093,6 +1092,7 @@
 			"scope": [
 				"text.html.basic entity.other.attribute-name.html",
 				"text.html.basic entity.other.attribute-name",
+				"entity.other.attribute-name",
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
