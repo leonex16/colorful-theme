@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2] - 2020-06-17
+
+### Changed
+
+- (dark-theme) Attribute name color
+- (dark-theme) Anchor parenthesis color
+
 ## [1.1.1] - 2020-06-16
 
 ### Changed
