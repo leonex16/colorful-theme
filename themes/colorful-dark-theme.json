@@ -775,9 +775,16 @@
 		},
 		{
 			"scope": [
-				"entity.name.function",
-				"meta.function-call",
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#C363F2"
+			}
+		},
+		{
+			"scope": [
 				"variable.function",
+				"meta.function-call",
 				"support.function",
 				"keyword.other.special-method",
 				"support.function.magic.python",
