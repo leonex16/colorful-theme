@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.3] - 2020-06-19
+
+### Changed
+
+- (dark-theme) The color of a function save as variable
+
 ## [1.1.2] - 2020-06-17
 
 ### Changed
